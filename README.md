@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/vinsensius13/vinsensius13/blob/main/vinsen-banner.png" alt="Banner" width="100%" />
+  <img src="https://github.com/akuma13-dev/akuma13-dev/blob/main/vinsen-banner.png" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi there 👋, I'm Vinsensius Fendy Kurniawan</h1>
@@ -36,8 +36,8 @@ Currently exploring various technologies to contribute to **open-source projects
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinsensius13&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinsensius13&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akuma13-dev&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akuma13-dev&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
