@@ -79,6 +79,19 @@ I enjoy learning new tech, contributing to open-source, and solving real-world p
 
 ---
 
+### 🏢 Organizations
+
+<p>
+  <a href="https://github.com/Nuswapada">
+    <img src="https://img.shields.io/badge/Nuswapada-Owner-green?style=flat-square&logo=github" />
+  </a>
+  <a href="https://github.com/presentation-app-capstone-bangkit">
+    <img src="https://img.shields.io/badge/Capstone%20Bangkit-Member-blueviolet?style=flat-square&logo=github" />
+  </a>
+</p>
+
+---
+
 <p align="center">
   💻 <b>Thanks for stopping by!</b><br>
   Feel free to check out my repositories and collaborate 🚀
