@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/akuma13-dev/akuma13-dev/blob/main/vinsen-banner.png" alt="Banner" width="100%" />
+  <img src="https://github.com/akuma13-dev/vinsensius13/blob/main/vinsen-banner.png" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi there 👋, I'm Vinsensius Fendy Kurniawan</h1>
