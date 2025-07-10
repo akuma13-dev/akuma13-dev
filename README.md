@@ -38,7 +38,7 @@ I enjoy learning new tech, contributing to open-source, and solving real-world p
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akuma13-dev&show_icons=true&theme=tokyonight&hide_title=false&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=akuma13-dev&theme=algolia" />
   <img src="https://streak-stats.demolab.com?user=akuma13-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
