@@ -4,45 +4,47 @@
 </p>
 
 <h1 align="center">Hi there 👋, I'm Vinsensius Fendy Kurniawan</h1>
-<h3 align="center">🚀 Passionate Developer | AI & Machine Learning Enthusiast | Android Developer</h3>
+<h3 align="center">💻 Android Developer | AI & Machine Learning Enthusiast | Tech Explorer</h3>
 
 <!-- Typing SVG animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate+Android+Developer;AI+and+ML+Explorer;Always+Learning+New+Tech;Love+Open+Source;Nice+to+meet+you!&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&height=50&lines=Android+Dev+%26+AI+Explorer;Loves+Clean+Code+%26+Coffee;Always+Learning+New+Things;Welcome+to+my+profile!">
 </p>
 
 ---
 
-### 💡 About Me
+### 🚀 About Me
 
-I am a **developer with a strong passion for AI, Machine Learning, and Android development**.  
-Currently pursuing a degree in Information Systems at **Institut Teknologi Batam**.  
+I'm a developer passionate about building **user-friendly Android apps** and exploring the world of **AI and Machine Learning**.
 
-I focus on building **user-friendly and efficient mobile applications**, with a growing interest in integrating **machine learning** to enhance app functionality.
+Currently studying **Information Systems at Institut Teknologi Batam**, while working on projects involving:
+- Android development using **Jetpack Compose & Kotlin**
+- Machine Learning with **TensorFlow, PyTorch**
+- Backend API with **FastAPI**, and integrating ML into mobile apps
 
-Currently exploring various technologies to contribute to **open-source projects**, and working on **mobile apps**, **AI models**, and **data-driven solutions**.
+I enjoy learning new tech, contributing to open-source, and solving real-world problems with code.
 
 ---
 
-### 🛠️ Tech Stack
+### 🧰 Tech Stack
 
-- **Languages:** `Python`, `Kotlin`, `Dart`, `Java` 
-- **Frameworks & Tools:** `TensorFlow`, `PyTorch`, `Jetpack Compose`, `Flutter`, `Android Studio`, `VS Code`
-- **Databases:** `Firebase`, `PostgreSQL`, `SQLite`, `MySQL`  
-- **Other:** `Git`, `Figma`
+- **Languages:** `Kotlin`, `Python`, `Dart`, `Java`
+- **Frameworks & Tools:** `Jetpack Compose`, `Flutter`, `FastAPI`, `TensorFlow`, `PyTorch`
+- **Databases:** `Firebase`, `PostgreSQL`, `SQLite`, `MySQL`
+- **Others:** `Git`, `VS Code`, `Android Studio`, `Figma`, `Google Colab`
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akuma13-dev&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akuma13-dev&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akuma13-dev&show_icons=true&theme=tokyonight&hide_title=false&hide_border=true" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=akuma13-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 🌎 Connect with Me
+### 📬 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinsensius-fendy-kurniawan-86ab50293/)  
 📧 Email: [vinsensiusfendy@gmail.com](mailto:vinsensiusfendy@gmail.com)
@@ -51,10 +53,9 @@ Currently exploring various technologies to contribute to **open-source projects
 
 ### 🎯 Fun Facts
 
-✨ *Learn till die.*  
-✨ *I love learning new tech and sharing knowledge with the community.*  
-✨ *Favorite quote:*  
-*"The only way to do great work is to love what you do." - Steve Jobs*  
+- ☕ Fuel: Coffee and curiosity  
+- 🎸 Debug mode = Punk playlist ON  
+- 🧠 Motto: *Design with intent. Code with clarity.*
 
 ---
 
@@ -64,5 +65,13 @@ Currently exploring various technologies to contribute to **open-source projects
 
 ---
 
-💻 **Happy coding!**  
-Feel free to check out my repositories 🚀✨
+### 🌟 Featured Projects
+
+- 🔥 [ReportApp](https://github.com/akuma13-dev/reportapp) — Flutter app to translate & store patient reports
+- 🎯 [Nindogo](https://github.com/akuma13-dev/nindogoterbakar) — Japanese ⇄ Indonesian Translator with breakdown + TTS
+- 🧠 [ronde-light](https://github.com/akuma13-dev/ronde-light) — AI image classifier backend with FastAPI
+
+---
+
+💻 **Thanks for stopping by!**  
+Check out my repositories and feel free to collaborate 🚀
