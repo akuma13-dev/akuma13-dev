@@ -8,7 +8,7 @@
 
 <!-- Typing SVG animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&height=50&lines=Android+Dev+%26+AI+Explorer;Loves+Clean+Code+%26+Coffee;Always+Learning+New+Things;Welcome+to+my+profile!">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FEEF&center=true&vCenter=true&width=500&height=50&lines=Android+Dev+%26+AI+Explorer;Loves+Clean+Code+%26+Coffee;Always+Learning+New+Things;Welcome+to+my+profile!" />
 </p>
 
 ---
@@ -28,9 +28,9 @@ I enjoy learning new tech, contributing to open-source, and solving real-world p
 
 ### 🧰 Tech Stack
 
-- **Languages:** `Kotlin`, `Python`, `Dart`, `Java`
-- **Frameworks & Tools:** `Jetpack Compose`, `Flutter`, `FastAPI`, `TensorFlow`, `PyTorch`
-- **Databases:** `Firebase`, `PostgreSQL`, `SQLite`, `MySQL`
+- **Languages:** `Kotlin`, `Python`, `Dart`, `Java`  
+- **Frameworks & Tools:** `Jetpack Compose`, `Flutter`, `FastAPI`, `TensorFlow`, `PyTorch`  
+- **Databases:** `Firebase`, `PostgreSQL`, `SQLite`, `MySQL`  
 - **Others:** `Git`, `VS Code`, `Android Studio`, `Figma`, `Google Colab`
 
 ---
@@ -67,11 +67,13 @@ I enjoy learning new tech, contributing to open-source, and solving real-world p
 
 ### 🌟 Featured Projects
 
-- 🔥 [ReportApp](https://github.com/akuma13-dev/reportapp) — Flutter app to translate & store patient reports
-- 🎯 [Nindogo](https://github.com/akuma13-dev/nindogoterbakar) — Japanese ⇄ Indonesian Translator with breakdown + TTS
+- 🔥 [ReportApp](https://github.com/akuma13-dev/reportapp) — Flutter app to translate & store patient reports  
+- 🎯 [Nindogo](https://github.com/akuma13-dev/nindogoterbakar) — Japanese ⇄ Indonesian Translator with breakdown + TTS  
 - 🧠 [ronde-light](https://github.com/akuma13-dev/ronde-light) — AI image classifier backend with FastAPI
 
 ---
 
-💻 **Thanks for stopping by!**  
-Check out my repositories and feel free to collaborate 🚀
+<p align="center">
+  💻 <b>Thanks for stopping by!</b><br>
+  Feel free to check out my repositories and collaborate 🚀
+</p>
