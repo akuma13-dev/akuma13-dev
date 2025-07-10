@@ -66,7 +66,7 @@ I enjoy learning new tech, contributing to open-source, and solving real-world p
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding Gif" />
+  <img src="https://media.giphy.com/media/FoVzfcqCDSb7zCynOp/giphy.gif" width="200" alt="AI Gif" />
 </p>
 
 ---
